@@ -1,0 +1,15 @@
+#what is the current ip address
+ip addr
+# add user account
+sudo useradd
+# enable remote admin
+sudo apt install openssh-server
+#
+
+sudo apt update
+sudo apt dist-upgrade
+
+sudo apt insstall mysql-server
+sudo apt install apache2
+sudo apt install php
+sudo apt install wordpress
